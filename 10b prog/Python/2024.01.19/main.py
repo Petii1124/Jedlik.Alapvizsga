@@ -1,0 +1,3 @@
+from forras import *
+
+versenyzok()

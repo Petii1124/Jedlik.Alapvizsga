@@ -1,0 +1,9 @@
+AA-BB-123;Opel;Astra J;75;Piros
+BB-CC-345;Opel;Mokka;85;Fehér
+AA-AA-000;Skoda;Octavia;110;Fehér
+BB-BB-111;Tesla;Model 3;200;Fekete
+CC-CC-111;Toyota;Yaris;33;Zöld
+AB-CD-567;VW;Golf;55;Fehér
+AS-AS-021;Tesla;Model X;245;Fekete
+AA-BB-987;Audi;A4;130;kék
+AU-DI-094;Audi;RS7;700;piros

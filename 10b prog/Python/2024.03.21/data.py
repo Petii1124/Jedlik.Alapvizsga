@@ -1,0 +1,2 @@
+class valasztok:
+    def 
